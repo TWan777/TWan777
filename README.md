@@ -31,6 +31,6 @@ If you need help installing a node, feel free to use this guides:
 
 ### Contact Me
 
-Feel free to reach out for collaborations or discussions on validators and blockchain technology. Connect with me on Twitter [@twangain](https://x.com/twangain).
+Feel free to reach out for collaborations or discussions on validators and blockchain technology. Connect with me on X/Twitter [@twangain](https://x.com/twangain) or Discord [@twangain](https://discordapp.com/users/964665993412628500).
 
 Happy validating! 🚀
