@@ -24,9 +24,9 @@ Welcome to my GitHub! I'm TWan, a crypto enthusiast deeply involved in validator
 ### Guides
 If you need help installing a node, feel free to use this guides:
 - **[0g](https://github.com/TWan777/guides/tree/main/0g-guide)**
-- **Haqq**
-- **Side**
-- **Lava**
+- **[Nillion](https://github.com/TWan777/guides/tree/main/nillion-guide)**
+- **[Side](https://github.com/TWan777/guides/tree/main/side-guide)**
+- **[Lava](https://github.com/TWan777/guides/tree/main/lava-guide)**
 
 
 ### Contact Me
