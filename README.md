@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm TWan, a crypto enthusiast deeply involved in validator
 
 ### Guides
 If you need help installing a node, feel free to use this guides:
-- [**0g](https://github.com/TWan777/guides/tree/main/0g-guide)**
+- **[0g](https://github.com/TWan777/guides/tree/main/0g-guide)**
 - **Haqq**
 - **Side**
 - **Lava**
