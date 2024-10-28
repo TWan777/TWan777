@@ -4,8 +4,6 @@ Welcome to my GitHub! I'm TWan, a crypto enthusiast deeply involved in validator
 
 ### Projects I'm Contributing To:
 
-- **[0g Testnet](https://testnet.0g.explorers.guru/validator/0gvaloper1e3xc3mh25axj0l55e63xcc9yzj49pn4mwf9had)**
-
 - **[Nillion Testnet](https://testnet.nillion.explorers.guru/validator/nillionvaloper1g7pvezhtlxu7vffh32536frtq4z6c6dxeax5wv)**
 
 - **[Juneo Genesis](https://genesis.mcnscan.io/chain/2oJ5LaLMUU98pfwqVfrCH8kbJDiDgXE1Z2qykTu3W5aRwQd7Jc)**
