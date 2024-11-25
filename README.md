@@ -24,6 +24,7 @@ If you need help installing a node, feel free to use these guides:
 - **[Nillion](https://github.com/TWan777/guides/tree/main/nillion-guide)**
 - **[Side](https://github.com/TWan777/guides/tree/main/side-guide)**
 - **[Lava](https://github.com/TWan777/guides/tree/main/lava-guide)**
+- **[Humans](https://github.com/TWan777/guides/blob/main/humans-guide)
 
 
 ### Contact Me
